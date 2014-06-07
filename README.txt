@@ -5,6 +5,10 @@ filesystem read & write capabilities,httpfs-client read & write hdfs filesystem 
 example
 please read com.catt.httpfs.client.httpclient.Demo and org.apache.hadoop.fs.http.client.Demo
 
+Requirements:
+  * JDK 1.6.*
+  * Maven 3.*
+  
 How to build:
 	Clone this Git repository. 
 	
