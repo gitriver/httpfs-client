@@ -6,7 +6,7 @@ example
 	please read com.catt.httpfs.client.httpclient.Demo and org.apache.hadoop.fs.http.client.Demo
 
 How to build:
-	Clone this Git repository. Checkout the cdh3u5 branch.
+	Clone this Git repository. Checkout the cdh3u5 branch. 
 
 	Run 'mvn package'.
 
